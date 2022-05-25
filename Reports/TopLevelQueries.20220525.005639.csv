@@ -1,0 +1,35 @@
+PartitionKey,FileType,ObjectName,HighLevelObject,FileName,LineNumber,LinesOfCode,HighestEWISeverity,ConversionStatus,EWIs,UDFsUsed,ConversionPercentage,EWIsNumber
+9672d284-b203-4768-90fb-39c1c02004ff,SQL,2,SELECT,Unicode (UTF-8).sql,8,1,,Fully Converted,,,100%,0
+9672d284-b203-4768-90fb-39c1c02004ff,SQL,3,SELECT,Unicode (UTF-8).sql,10,1,,Fully Converted,,,100%,0
+9672d284-b203-4768-90fb-39c1c02004ff,SQL,4,SELECT,Unicode (UTF-8).sql,12,1,,Fully Converted,,,100%,0
+9672d284-b203-4768-90fb-39c1c02004ff,SQL,5,SELECT,Unicode (UTF-8).sql,15,1,,Fully Converted,,,100%,0
+9672d284-b203-4768-90fb-39c1c02004ff,SQL,6,SELECT,Unicode (UTF-8).sql,17,1,,Fully Converted,,,100%,0
+9672d284-b203-4768-90fb-39c1c02004ff,SQL,7,SELECT,Unicode (UTF-8).sql,19,1,,Fully Converted,,,100%,0
+9672d284-b203-4768-90fb-39c1c02004ff,SQL,8,SELECT,Unicode (UTF-8).sql,21,1,,Fully Converted,,,100%,0
+9672d284-b203-4768-90fb-39c1c02004ff,SQL,9,SELECT,Unicode (UTF-8).sql,23,1,,Fully Converted,,,100%,0
+9672d284-b203-4768-90fb-39c1c02004ff,SQL,2,SELECT,US-ASCII.sql,8,1,,Fully Converted,,,100%,0
+9672d284-b203-4768-90fb-39c1c02004ff,SQL,3,SELECT,US-ASCII.sql,10,1,,Fully Converted,,,100%,0
+9672d284-b203-4768-90fb-39c1c02004ff,SQL,4,SELECT,US-ASCII.sql,12,1,,Fully Converted,,,100%,0
+9672d284-b203-4768-90fb-39c1c02004ff,SQL,5,SELECT,US-ASCII.sql,15,1,,Fully Converted,,,100%,0
+9672d284-b203-4768-90fb-39c1c02004ff,SQL,6,SELECT,US-ASCII.sql,17,1,,Fully Converted,,,100%,0
+9672d284-b203-4768-90fb-39c1c02004ff,SQL,7,SELECT,US-ASCII.sql,19,1,,Fully Converted,,,100%,0
+9672d284-b203-4768-90fb-39c1c02004ff,SQL,8,SELECT,US-ASCII.sql,21,1,,Fully Converted,,,100%,0
+9672d284-b203-4768-90fb-39c1c02004ff,SQL,9,SELECT,US-ASCII.sql,23,1,,Fully Converted,,,100%,0
+9672d284-b203-4768-90fb-39c1c02004ff,SQL,2,SELECT,Western European (ISO 8859-1).sql,8,1,,Fully Converted,,,100%,0
+9672d284-b203-4768-90fb-39c1c02004ff,SQL,3,SELECT,Western European (ISO 8859-1).sql,10,1,,Fully Converted,,,100%,0
+9672d284-b203-4768-90fb-39c1c02004ff,SQL,4,SELECT,Western European (ISO 8859-1).sql,12,1,,Fully Converted,,,100%,0
+9672d284-b203-4768-90fb-39c1c02004ff,SQL,5,SELECT,Western European (ISO 8859-1).sql,15,1,,Fully Converted,,,100%,0
+9672d284-b203-4768-90fb-39c1c02004ff,SQL,6,SELECT,Western European (ISO 8859-1).sql,17,1,,Fully Converted,,,100%,0
+9672d284-b203-4768-90fb-39c1c02004ff,SQL,7,SELECT,Western European (ISO 8859-1).sql,19,1,,Fully Converted,,,100%,0
+9672d284-b203-4768-90fb-39c1c02004ff,SQL,8,SELECT,Western European (ISO 8859-1).sql,21,1,,Fully Converted,,,100%,0
+9672d284-b203-4768-90fb-39c1c02004ff,SQL,9,SELECT,Western European (ISO 8859-1).sql,23,1,,Fully Converted,,,100%,0
+9672d284-b203-4768-90fb-39c1c02004ff,SQL,2,DELETE,replaceDeleteAllToTruncate.sql,5,1,,Fully Converted,,,100%,0
+9672d284-b203-4768-90fb-39c1c02004ff,SQL,3,DELETE,replaceDeleteAllToTruncate.sql,7,1,,Fully Converted,,,100%,0
+9672d284-b203-4768-90fb-39c1c02004ff,SQL,2,SELECT,timeFormat.sql,8,1,,Fully Converted,,,100%,0
+9672d284-b203-4768-90fb-39c1c02004ff,SQL,3,SELECT,timeFormat.sql,10,1,,Fully Converted,,,100%,0
+9672d284-b203-4768-90fb-39c1c02004ff,SQL,4,SELECT,timeFormat.sql,12,1,,Fully Converted,,,100%,0
+9672d284-b203-4768-90fb-39c1c02004ff,SQL,5,SELECT,timeFormat.sql,15,1,,Fully Converted,,,100%,0
+9672d284-b203-4768-90fb-39c1c02004ff,SQL,6,SELECT,timeFormat.sql,17,1,,Fully Converted,,,100%,0
+9672d284-b203-4768-90fb-39c1c02004ff,SQL,7,SELECT,timeFormat.sql,19,1,,Fully Converted,,,100%,0
+9672d284-b203-4768-90fb-39c1c02004ff,SQL,8,SELECT,timeFormat.sql,21,1,,Fully Converted,,,100%,0
+9672d284-b203-4768-90fb-39c1c02004ff,SQL,9,SELECT,timeFormat.sql,23,1,,Fully Converted,,,100%,0

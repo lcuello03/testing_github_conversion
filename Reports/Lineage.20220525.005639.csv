@@ -1,0 +1,5 @@
+Relationship,Script,Target_Object_DB,Target_Object_Name,Source_Object_DB,Source_Object_Name,Action
+BTEQ,replaceDeleteAllToTruncate.sql,<unspecified>,testTable,,,Delete
+View,SQL_BasicSample.sql,ZAI_P_Source,JAVA$CLASS$MD5$TABLE,<unspecified>,SomeTable,View
+View,SQL_BasicSample.sql,PUBLIC,NEWVIEW,<unspecified>,TABLE1,View
+View,missingDependencies.sql,<unspecified>,VIEW1,<unspecified>,TABLE1,View
